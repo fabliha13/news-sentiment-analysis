@@ -14,7 +14,7 @@ The dataset used is a collection of news articles, which is included in the `dat
 
 ## Instructions
 1. **Run the Code**: Execute `src/news_sentiment_analysis_and_prediction.py` to train the model and view the evaluation metrics.
-2. **Data File**: Ensure the dataset is placed in the `data` folder.
+2. **Data File**: Dataset is placed in the `data` folder.
 
 ## Results
 The model provides sentiment classification accuracy along with a detailed classification report and confusion matrix.
